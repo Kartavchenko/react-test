@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[675],{9675:function(e,t,a){a.r(t);var n=a(1087),s=a(890),r=a(184);t.default=function(){return(0,r.jsx)("div",{style:{width:"100vw",height:"50vw",backgroundImage:"url(https://www.pushengage.com/wp-content/uploads/2022/02/Best-Website-Welcome-Message-Examples.png)"},children:(0,r.jsx)(n.OL,{to:"/1",children:(0,r.jsx)(s.Z,{align:"center",variant:"h2",children:"Follow to cards"})})})}}}]);
+//# sourceMappingURL=675.c2629eff.chunk.js.map
